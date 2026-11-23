@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ahmed 👋
 
-<!--
-**mohamedamohamed451-stack/mohamedamohamed451-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student at **Modern Academy** (Cairo, Egypt)
+🤖 Aspiring **AI/ML Engineer** — focused on Python, Machine Learning and Computer Vision
+🔭 Currently seeking an **AI/ML internship** (remote or in Egypt)
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+### [New Muslim Companion](https://github.com/mohamedamohamed451-stack/Demo-test)
+My graduation project — a React + Vite web app for new Muslims: prayer times, Quran, and a **Prayer Trainer** that uses the device camera for live prayer-posture guidance.
+🌐 Live: https://demo-test-two-sepia.vercel.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+**AI/ML & Programming:** Python · Machine Learning · NumPy · Computer Vision · C++ · JavaScript · React
+**Systems & Security:** Linux · Networking · Cybersecurity · CCNA · Sophos Firewall
+**Web:** HTML/CSS · Vite
+
+## 📚 Currently Learning
+- Machine Learning fundamentals & Mathematics for AI
+- NumPy for data work
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/mohamed-ahmed-aab667268
+- Email: mohamedamohamed451@gmail.com
