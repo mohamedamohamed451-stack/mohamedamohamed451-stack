@@ -23,8 +23,9 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,cpp,react,js,html,css,linux,git,github,vite&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,js,html,css,linux,git,github,vite&theme=dark" alt="Skills"/>
 </div>
+<div align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></div>
 
 **AI/ML:** Python · Pandas · NumPy · Machine Learning · Computer Vision
 **Systems & Security:** Linux · Networking · Cybersecurity · CCNA · Sophos Firewall
