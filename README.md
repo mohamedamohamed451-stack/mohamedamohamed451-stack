@@ -5,7 +5,7 @@
 🔭 Currently seeking an **AI/ML internship** (remote or in Egypt)
 
 ## 🚀 Featured Project
-### [New Muslim Companion](https://github.com/mohamedamohamed451-stack/Demo-test)
+### [Oswa](https://github.com/mohamedamohamed451-stack/Demo-test)
 My graduation project — a React + Vite web app for new Muslims: prayer times, Quran, and a **Prayer Trainer** that uses the device camera for live prayer-posture guidance.
 🌐 Live: https://demo-test-two-sepia.vercel.app/
 
